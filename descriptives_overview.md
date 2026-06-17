@@ -38,6 +38,13 @@ Weekly share of automated moderation detections on TikTok for text content only.
 
 # Moderation Decision Automation
 
+Automated decision shares pre/post October 31st, 2025 
+
+| Automated Decision | Pre | Post |
+|--------------------|----------|----------|
+| False              | 0.056624 | 0.073034 |
+| True               | 0.943376 | 0.926966 |
+
 ## Decision - All
 
 Weekly share of automated moderation decisions on TikTok for all content. 
