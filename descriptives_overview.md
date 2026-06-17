@@ -18,6 +18,10 @@ Weekly share of automated moderation detections on TikTok for all content.
 
 ![Detection All](figures/detection_all.png)
 
+Weekly share of automated moderation detections on TikTok excluding Other TC Violations category. 
+
+![Detection All](figures/detection_all_no_other.png)
+
 Weekly share of automated moderation detections on TikTok for all content by category. 
 
 ![Detection All](figures/detection_all_cat.png)
@@ -53,6 +57,9 @@ Automated decision shares pre/post October 31st, 2025
 
 Weekly share of automated moderation decisions on TikTok for all content. 
 ![Decision All](figures/decision_all.png)
+
+Weekly share of automated moderation decisions on TikTok excluding Other TC Violations category. 
+![Detection All](figures/decision_all_no_other.png)
 
 Weekly share of automated moderation decisions on TikTok for all content by category. 
 ![Decision All](figures/decision_all_cat.png)
