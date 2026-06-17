@@ -3,32 +3,12 @@ Descriptive figures for automated moderation detection and decisions on TikTiok 
 
 Arround October 31st, 2025, TikTok fired the Entire German Trust and Safety team, according to [news reports](https://www.tagesspiegel.de/berlin/berliner-wirtschaft/arbeitskampf-bei-tiktok-beendet-content-moderatoren-erhalten-abfindungen-14780273.html). This date is marked as the cut-off date in the plots below. 
 
-# Decision Figures
+# Moderation Detection Automation
 
-## Decision - All
-
-Weekly share of automated moderation decisions on TikTok for all content. 
-![Decision All](figures/decision_all.png)
-
----
-
-## Decision - Text
-
-Weekly share of automated moderation decisions on TikTok for video content only. 
-
-![Decision Text](figures/decision_text.png)
-
----
-
-## Decision - Video
-
-Weekly share of automated moderation decisions on TikTok for text content only. 
-
-![Decision Video](figures/decision_video.png)
-
----
-
-# Detection Figures
+| Automated Detection | Post = 0 | Post = 1 |
+|--------------------|----------|----------|
+| False              | 0.015774 | 0.030542 |
+| True               | 0.984226 | 0.969458 |
 
 ## Detection - All
 
@@ -51,3 +31,29 @@ Weekly share of automated moderation detections on TikTok for video content only
 Weekly share of automated moderation detections on TikTok for text content only.  
 
 ![Detection Video](figures/detection_video.png)
+
+---
+
+# Moderation Decision Automation
+
+## Decision - All
+
+Weekly share of automated moderation decisions on TikTok for all content. 
+![Decision All](figures/decision_all.png)
+
+---
+
+## Decision - Text
+
+Weekly share of automated moderation decisions on TikTok for video content only. 
+
+![Decision Text](figures/decision_text.png)
+
+---
+
+## Decision - Video
+
+Weekly share of automated moderation decisions on TikTok for text content only. 
+
+![Decision Video](figures/decision_video.png)
+
