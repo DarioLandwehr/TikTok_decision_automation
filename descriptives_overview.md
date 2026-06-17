@@ -5,7 +5,9 @@ Arround October 31st, 2025, TikTok fired the Entire German Trust and Safety team
 
 # Moderation Detection Automation
 
-| Automated Detection | Post = 0 | Post = 1 |
+Automated detection shares pre/post October 31st, 2025 
+
+| Automated Detection | Pre | Post |
 |--------------------|----------|----------|
 | False              | 0.015774 | 0.030542 |
 | True               | 0.984226 | 0.969458 |
