@@ -1,26 +1,30 @@
+# TikTok Moderation Automation
+Descriptive figures for automated moderation detection and decisions on TikTiok 2023-2026. Data from the [DSA Transparency Database](URL). 
+
+Arround October 31st, 2025, TikTok fired the Entire German Trust and Safety team, according to [news reports](https://www.tagesspiegel.de/berlin/berliner-wirtschaft/arbeitskampf-bei-tiktok-beendet-content-moderatoren-erhalten-abfindungen-14780273.html). This date is marked as the cut-off date in the plots below. 
+
 # Decision Figures
 
 ## Decision - All
 
+Weekly share of automated moderation decisions on TikTok for all content. 
 ![Decision All](figures/decision_all.png)
-
-Short description placeholder for Decision All figure. Replace this text with a brief explanation of what is shown, key patterns, and interpretation.
 
 ---
 
 ## Decision - Text
 
-![Decision Text](figures/decision_text.png)
+Weekly share of automated moderation decisions on TikTok for video content only. 
 
-Short description placeholder for Decision Text figure. Replace this text with details specific to text-based decisions.
+![Decision Text](figures/decision_text.png)
 
 ---
 
 ## Decision - Video
 
-![Decision Video](figures/decision_video.png)
+Weekly share of automated moderation decisions on TikTok for text content only. 
 
-Short description placeholder for Decision Video figure. Replace this text with details specific to video-based decisions.
+![Decision Video](figures/decision_video.png)
 
 ---
 
@@ -28,22 +32,22 @@ Short description placeholder for Decision Video figure. Replace this text with 
 
 ## Detection - All
 
-![Detection All](figures/detection_all.png)
+Weekly share of automated moderation detections on TikTok for all content. 
 
-Short description placeholder for Detection All figure. Explain aggregated detection results here.
+![Detection All](figures/detection_all.png)
 
 ---
 
 ## Detection - Text
 
-![Detection Text](figures/detection_text.png)
+Weekly share of automated moderation detections on TikTok for video content only. 
 
-Short description placeholder for Detection Text figure. Describe text-specific detection patterns.
+![Detection Text](figures/detection_text.png)
 
 ---
 
 ## Detection - Video
 
-![Detection Video](figures/detection_video.png)
+Weekly share of automated moderation detections on TikTok for text content only.  
 
-Short description placeholder for Video detection figure. Describe video-specific detection patterns.
+![Detection Video](figures/detection_video.png)
